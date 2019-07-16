@@ -1,0 +1,7 @@
+site_name: ResSwitch
+theme: readthedocs
+
+nav:
+    - Home: index.md
+    - About: about.md
+    - Default: default.md
