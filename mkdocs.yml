@@ -2,6 +2,9 @@ site_name: ResSwitch
 theme: readthedocs
 
 nav:
+    - User Guide:
+        - Writing your docs: index.md
     - Home: index.md
     - About: about.md
     - Default: default.md
+    
