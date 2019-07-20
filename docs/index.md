@@ -31,6 +31,15 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Commands
 
+!!! note "MLG"
+    BRUH
+	
+!!! important "MLG"
+    BRUH
+	
+!!! danger "MLG"
+    BRUH
+
 ### Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
@@ -46,15 +55,11 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ![Screenshot](img/Guyman.png)
 
-<div style="position: relative; width: 100%; height: 100%;">
-
-<img src="img/Change Resolutions 1.gif" alt="IMAGE ALT TEXT HERE" style="width: inherit;">
-
-<!-- ![Screenshot](img/Change Resolutions 1.gif) -->
-
-</div>
-
-   <img src="img/Change Resolutions 1.gif" alt="IMAGE ALT TEXT HERE" style="width: 100%;">
+   <img src="/img/Change Resolutions 1.gif" alt="IMAGE ALT TEXT HERE" style="width: 100%;">
+   bruh
+   
+   <img src="/img/Dropdown Modes v1.0.png" alt="IMAGE ALT TEXT HERE" style="width: 100%;">
+   
 
 ## Project layout
 

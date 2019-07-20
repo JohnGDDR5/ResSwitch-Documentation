@@ -1,10 +1,13 @@
 site_name: ResSwitch
 theme: readthedocs
+markdown_extensions:
+  - admonition
 
 nav:
     - User Guide:
-        - Writing your docs: index.md
+        - Introduction: intro.md
+    - Features: features.md
     - Home: index.md
     - About: about.md
-    - Default: default.md
+    - Default(Don't Change anything here): default.md
     
