@@ -5,6 +5,9 @@ Date:    July 16, 2019
 blank-value:
 some_url: https://example.com
 
+!!! danger "Incomplete Documentation"
+    Huge update coming soon that will have major changes to the Addon UI and Workflow
+
 #Panel Map
 
 <img src="../img/ResSwitch_v1.0_Panel_Map_v1.2.png" alt="ResSwitch: Panel Map" title="" style="width: 100%; display: block">
