@@ -29,4 +29,6 @@ Click Resolution Buttons to change scene resolution
 <img src="/img/Move Position v1.0.gif" alt="ResSwitch: Move Position" title="" style="display: block">
 *Move ResButton Positions*
 
+![Screenshot](img/Guyman.png)
+
 
