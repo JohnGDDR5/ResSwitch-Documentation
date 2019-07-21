@@ -25,7 +25,7 @@ JohnGDDR5 on:
 Designed to improve *user experience* and faster control of working with scene resolutions for rendering and compositing. A ResSwitch Panel is added to the *Properties' Render Tab* and also the *Node Editor compositor* where scene resolution changing is needed.
 
 !!! note "Note"
-    Support for Blender 2.80 is planned once 2.80 officially releases
+    Support for Blender 2.8 is planned once 2.8 officially releases
 
 ## Features
 
