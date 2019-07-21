@@ -26,7 +26,7 @@ Click Resolution Buttons to change scene resolution
 
 #Move ResButtons
 
-<img src="img/Move Position v1.0.gif" alt="ResSwitch: Move Position" title="" style="display: block">
+<img src="/img/Move Position v1.0.gif" alt="ResSwitch: Move Position" title="" style="display: block">
 *Move ResButton Positions*
 
 
