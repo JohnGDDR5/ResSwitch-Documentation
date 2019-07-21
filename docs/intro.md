@@ -34,14 +34,16 @@ Designed to improve *user experience* and faster control of working with scene r
    * The *render resolution* is displayed in the resolution's *percent bar*
    * Custom Resolution Box is added to add Custom Resolution Buttons
    * Many functions to quickly switch Scene & Custom Resolution's X/Y resolutions
+   * Displays Aspect Ratios
 
 ####Context Sensitive Resolution Changing Buttons
 
-   * 1-click Buttons that set Scene Resolution to an Active Node or Selected Image's resolution
+   * Two 1-click Buttons that set Scene Resolution to an Active Node or Selected Image's resolution
 
 ####Custom Resolution Buttons
 
-   * Add Custom Resolution Buttons that are kept saved in the Blender file
+   * Add Custom Resolutions as Buttons that are kept saved in the Blender file
+   * Custom Resolution Buttons change the scene resolution *once clicked*
    * Easily Edit added Resolution Buttons by toggling Edit mode
    * Change Order of Resolution Buttons
 
@@ -50,34 +52,4 @@ Designed to improve *user experience* and faster control of working with scene r
    * Toggle Display of Aspect Ratios of Scene Resolutions and Resolution Buttons
    * Display Resolution Buttons in Dropdown (condensed) or Extended mode
 
-!!! note "MLG"
-    BRUH
-	
-!!! important "MLG"
-    BRUH
-	
-!!! danger "MLG"
-    BRUH
-   
-### Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-   *boi*
-   
-    *BOI*
-
-
-   <img src="/img/Change Resolutions 1.gif" alt="IMAGE ALT TEXT HERE" style="width: 100%;">
-   bruhh
-   
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+!!! note "Current Addon Version 1.0"
