@@ -7,7 +7,4 @@ nav:
     - User Guide:
         - Introduction: intro.md
     - Features: features.md
-    - Home: index.md
-    - About: about.md
-    - Default(Don't Change anything here): default.md
     
