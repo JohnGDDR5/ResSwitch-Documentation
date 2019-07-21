@@ -5,6 +5,6 @@ markdown_extensions:
 
 nav:
     - User Guide:
-        - Introduction: intro.md
+        - Introduction: index.md
     - Features: features.md
     
