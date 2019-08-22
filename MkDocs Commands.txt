@@ -1,0 +1,17 @@
+cd folder
+
+mkdocs serve
+#Serves the mkdocs project in CD to IP http://127.0.0.1:8000 
+
+mkdocs build
+#Builds the website onto local file "site"
+
+git checkout Testing_1
+#First, checkout your documentation files onto the github repository.
+
+mkdocs gh-deploy
+#Then, gh-deploys builds the website "site" files onto the github branch "gh-pages"
+
+Notes:
+You should use .gitignore to not send the "site" files onto the "master" branch on github, since those files will be built into the branch "gh-pages"
+
